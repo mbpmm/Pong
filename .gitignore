@@ -1,0 +1,5 @@
+# Carpetas a ignorar
+bin/
+obj/
+.vs/raylib/v15/ipch
+.vs/raylib/v15/Browse.VC.db
